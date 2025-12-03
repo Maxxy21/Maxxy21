@@ -2,7 +2,7 @@
 
 Software developer based in Hamburg. I build tools that save people time.
 
-Currently at Amazon where I built a browser extension that turned a 15-minute copy-paste workflow into a one-click operation. My 6-person operations team uses it every day.
+Currently at Amazon where building stuff.
 
 ## 🚀 What I do
 
