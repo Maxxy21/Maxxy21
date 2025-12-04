@@ -2,7 +2,7 @@
 
 Software developer based in Hamburg. I build tools that save people time.
 
-Currently at Amazon where building stuff.
+Currently at Amazon building stuff.
 
 ## 🚀 What I do
 
