@@ -1,58 +1,74 @@
-#  Hi, I'm Maxwell 👋
+# Hi, I'm Maxwell 👋
 
-Software developer based in Hamburg. I build tools that save people time.
+**Software Engineer based in Hamburg.**
 
-Currently at Amazon building stuff.
+I build full-stack tools that solve operational problems. Currently bridging the gap between Business Intelligence and Software Engineering at **Amazon**, where I build internal tools that automate workflows and save time.
 
-## 🚀 What I do
+---
 
-- 💼 Right now: Business Intelligence Engineer at Amazon Hamburg
-- 🎓 Background: Just graduated with a CS degree from Free University of Bozen-Bolzano (October 2025)
-- 🔧 Built production browser extension, AI pitch evaluator, and DevOps automation tools
-- 🌍 Based in Hamburg, open to opportunities across Germany
-- 💬 English (Native), German (B2), Italian (C1)
+## 🚀 About Me
 
-I work full-stack - React and TypeScript on the frontend, Spring Boot and Node.js on the backend. I also set up CI/CD pipelines and dashboards when needed.
+- 💼 **Current:** Business Intelligence Engineer at **Amazon Hamburg** (Focus: Internal Tools & Automation)
+- 🎓 **Education:** B.Sc. Computer Science, Free University of Bozen-Bolzano (Oct 2025)
+- 💡 **Focus:** Full-Stack Development (React/Java), DevOps Automation, and Data Engineering
+- 🌍 **Location:** Hamburg, Germany (Open to relocation within Germany)
+- 💬 **Languages:** English (Native), German (B2), Italian (C1)
 
+---
 
-## 🛠️ Tech I use
+## 🛠️ Tech Stack
 
-**Frontend:** React.js, Next.js, React Native, TypeScript, JavaScript, HTML/CSS
-**Backend:** Node.js, Spring Boot, Java, Python, REST APIs
-**Database:** PostgreSQL, MySQL
-**DevOps:** GitHub Actions, Docker, AWS (EC2, S3, Lambda), CI/CD
-**Data & Monitoring:** Grafana, Elasticsearch, Excel (VBA, Macros), Amazon Quicksight
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 📌 Projects worth checking out
+---
+
+## 📌 Featured Projects
+
+### 🔧 [DSP Management Extension (Production Tool)](https://github.com/Maxxy21/dsp-extension-hosting)
+> **The Problem:** Operations teams were manually copying data between portals and Excel, taking ~15 mins/cycle.
+> **The Solution:** A browser extension that automates the workflow in one click.
+
+- **Impact:** Used daily by the Hamburg operations team; saves ~90 minutes per day.
+- **Engineering:** JavaScript, WebExtensions API.
+- **DevOps:** Built a CI/CD pipeline with GitHub Actions for automated testing (Jest) and deployment.
 
 ### 🎯 [Pista - AI Startup Pitch Evaluator](https://github.com/Maxxy21/startup-pitches)
-> My bachelor thesis. Built a Next.js app that evaluates startup pitches using AI (OpenAI/Claude/Gemini APIs). The challenge was getting it to give useful feedback instead of generic scores, had to engineer the prompts carefully to avoid score clustering where everything gets a 7/10.
+> **Bachelor Thesis:** A full-stack AI application that evaluates startup pitches using LLMs.
 
-**Stack:** Next.js 15, TypeScript, Convex, Clerk, OpenAI API
-🔗 [Live Demo](https://pista-app.vercel.app)
+- **Challenge:** Preventing generic API responses. Implemented structured prompting to ensure granular, actionable feedback.
+- **Stack:** Next.js 15, TypeScript, Convex (Serverless), OpenAI API, Clerk Auth.
+- 🔗 [Live Demo](https://pista-app.vercel.app)
 
-### 🔧 [DSP Management Extension](https://github.com/Maxxy21/dsp-extension-hosting)
-> Browser extension I built for my team at Amazon. Automates delivery partner communications - what used to take 15 minutes (Excel pivot tables, filtering, copy-pasting to individual channels) now takes one click. Also added broadcast messaging. Set up the CI/CD pipeline with GitHub Actions so the team can deploy updates themselves.
+### ☁️ [Tourism Data ETL Pipeline](https://github.com/Maxxy21/Programming-Project-OpenHub)
+> **Data Engineering:** A multithreaded Java pipeline processing 10,000+ tourism records.
 
-**Stack:** JavaScript, WebExtensions API, GitHub Actions
-**Impact:** Used daily by operations team
+- **Challenge:** Handling memory overflows with large datasets.
+- **Solution:** Optimized HTTP connection pooling and implemented stream processing to handle data efficiently.
+- **Stack:** Java, Multithreading, REST APIs, Maven.
 
 ### 🎮 [Wordle Clone - React Native](https://github.com/Maxxy21/Wordle-React-Native)
-> Cross-platform Wordle game (iOS/Android/Web). Built it to learn React Native. Has game stats, hard mode, and persistent storage with AsyncStorage.
+> **Mobile Dev:** A cross-platform game built to master React Native concepts.
 
-**Stack:** React Native, TypeScript, Expo
+- **Features:** Persistent storage (AsyncStorage), Dark Mode, and Game Logic.
+- **Stack:** React Native, TypeScript, Expo.
 
-### ☁️  [Tourism Data Analyzer](https://github.com/Maxxy21/Programming-Project-OpenHub)
-> ETL pipeline that processes 10,000+ tourism records from the Open Data Hub API using multithreaded Java. Ran into heap space issues with the full dataset and fixed it by optimizing memory usage and HTTP connection pooling.
+---
 
-**Stack:** Java, Gson/Jackson, REST APIs, Maven
+## 🌱 Looking For
 
-## 🌱 What I'm looking for
-
-Open to: Software Engineer, Frontend Developer, Full-Stack Developer roles in Hamburg or remote (Germany)
+I am actively looking for **Software Engineer** or **Full-Stack Developer** roles in **Hamburg** or **Remote (Germany)**.
 
 ## 📫 Get in touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maxwell-aboagye)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aboagyemaxwell@outlook.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://maxwell.is-a.dev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aboagyemaxwell@outlook.com)
