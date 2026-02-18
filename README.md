@@ -1,87 +1,82 @@
 # Hi, I'm Maxwell 👋
 
-**Fullstack Software Engineer based in Hamburg.**
+**Junior Software Engineer | Full-Stack Developer**
 
-I build production-grade systems that improve real business operations. Currently working in a high-performance environment at **Amazon**, where I design and develop internal software tools used daily in live production systems to reduce manual effort and increase operational efficiency.
+I build reliable software systems that solve real problems. With professional experience developing REST APIs and a passion for clean code, I'm focused on creating maintainable, scalable applications.
 
 ---
 
 ## 🚀 About Me
 
-- 💼 **Current:** Operations Associate (Technical Process Improvement) at **Amazon Hamburg** — Software Engineering & Automation
-- 🎓 **Education:** B.Sc. Computer Science, Free University of Bozen-Bolzano (Oct 2025)
-- 🧠 **Focus:** Fullstack Software Engineering, Business Applications, Distributed Systems
-- 🌍 **Location:** Hamburg, Germany (Open to relocation within Germany)
+- 💼 **Professional Experience:** Software Development at EWO (REST APIs, PostgreSQL, Spring Boot)
+- 🔨 **Technical Focus:** Full-stack development, backend systems, data processing
+- 🎓 **Education:** B.Sc. Computer Science, Free University of Bozen-Bolzano (2025)
+- 🌍 **Location:** Hamburg, Germany
 - 💬 **Languages:** English (Native), German (B2), Italian (C1)
 
-I specialize in building reliable, maintainable software systems at the intersection of web development, backend engineering, and data processing. I enjoy working across the full stack — from clean APIs and data models to intuitive user interfaces — with a strong focus on long-term system quality.
+I specialize in building backend systems and web applications. During my time at EWO, I developed production REST APIs serving enterprise clients. I continue to sharpen my skills through personal projects and open-source contributions.
 
 ---
 
 ## 🛠️ Tech Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+**Backend & APIs:**
+- Java (Spring Boot, JPA/Hibernate)
+- Node.js, Express
+- PostgreSQL, MySQL
+- REST API Design
+
+**Frontend:**
+- TypeScript/JavaScript
+- React, Next.js
+- Modern CSS, Responsive Design
+
+**DevOps & Tools:**
+- Git, GitHub Actions
+- Docker (containerization)
+- CI/CD pipelines
+- AWS (basics)
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔧 DSP Management Extension (Production System)
-**Internal workflow automation tool used in daily operations**
+### 🎯 [Pista - AI Pitch Evaluator](https://pista-app.vercel.app)
+**Production-ready full-stack application** for startup pitch analysis.
+- Engineered serverless backend handling multi-format inputs (audio, text)
+- Integrated OpenAI GPT-4 and Whisper for structured analysis
+- **Stack:** Next.js, TypeScript, Convex, OpenAI API
+- **Live Demo:** https://pista-app.vercel.app
 
-- **Problem:** Manual data transfers between portals and spreadsheets slowed daily operations.
-- **Solution:** Designed and built a browser extension to automate critical workflows with a single click.
-- **Impact:** Used daily by the Hamburg operations team, saving ~90 minutes of work per day.
-- **Engineering:** JavaScript, WebExtensions API
-- **DevOps:** CI/CD with GitHub Actions, automated testing (Jest) and deployments
+### ☁️ [Tourism ETL Pipeline](https://github.com/Maxxy21/Programming-Project-OpenHub)
+**High-performance data processing system** ingesting 10,000+ records.
+- Built multithreaded Java pipeline with strict schema validation
+- Optimized memory usage and processing speed through connection pooling
+- **Stack:** Java, Multithreading, Gson/Jackson, REST APIs
 
----
+### 🏗️ [Spring Boot Business API](https://github.com/Maxxy21/spring-boot-api)
+**Enterprise-grade REST API** with authentication and database integration.
+- Designed normalized PostgreSQL schema with proper relationships
+- Implemented JWT authentication and role-based access control
+- Comprehensive testing with JUnit and integration tests
+- **Stack:** Spring Boot, PostgreSQL, JWT, Docker
 
-### 🎯 Pista — AI-Powered Pitch Analysis Platform
-**Business decision-support system for structured startup evaluation**
-
-- Designed a fullstack AI platform to transform unstructured pitch data into structured business insights.
-- Implemented reliable prompt engineering and JSON-based evaluation pipelines for reproducible results.
-- **Stack:** Next.js, TypeScript, Serverless Backend, OpenAI API, Authentication & Role Management  
-🔗 Live Demo: https://pista-app.vercel.app
-
----
-
-### ☁️ Tourism Data ETL Pipeline
-**High-performance backend system for structured data processing**
-
-- Built a multithreaded Java pipeline to ingest and normalize 10,000+ external API records.
-- Optimized memory usage using stream processing and connection pooling.
-- Designed structured outputs for relational database ingestion.
-- **Stack:** Java, Multithreading, REST APIs, Maven
-
----
-
-### 🎮 Wordle Clone — React Native
-**Cross-platform mobile application**
-
-- Implemented game logic, persistent storage, and responsive UI.
+### 🎮 [Wordle Clone - React Native](https://github.com/Maxxy21/Wordle-React-Native)
+**Cross-platform mobile application** built with modern React patterns.
+- Implemented game logic, persistent storage, and smooth animations
 - **Stack:** React Native, TypeScript, Expo
 
 ---
 
-## 🌱 Looking For
+## 🌱 Currently
 
-Open to **Fullstack Software Engineer** roles in **Hamburg** or across Germany.
-
-I am particularly interested in teams building business-critical software systems where clean architecture, reliability, and long-term maintainability matter.
+- 🔍 Seeking **Software Engineering** opportunities in Hamburg
+- 🚀 Building production-grade projects and contributing to open source
+- 📚 Deepening expertise in distributed systems and cloud architecture
 
 ---
 
-## 📫 Get in Touch
+## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maxwell-aboagye)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://maxwell.is-a.dev)
