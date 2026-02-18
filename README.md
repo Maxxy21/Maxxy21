@@ -1,6 +1,6 @@
 # Hi, I'm Maxwell 👋
 
-**Junior Software Engineer | Full-Stack Developer**
+**Software Engineer | Full-Stack Developer**
 
 I build reliable software systems that solve real problems. With professional experience developing REST APIs and a passion for clean code, I'm focused on creating maintainable, scalable applications.
 
