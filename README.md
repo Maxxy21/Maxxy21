@@ -8,7 +8,7 @@ I build reliable software systems with modern technologies. Passionate about bac
 
 ## 🚀 About Me
 
-- 💻 **Focus:** Backend Systems, Full-Stack Development, Data Processing
+- 💻 **Focus:** Backend Systems, Full-Stack Development, Data Engineering
 - 🎓 **Education:** B.Sc. Computer Science, Free University of Bozen-Bolzano (2025)
 - 🔨 **Expertise:** Java, TypeScript, PostgreSQL, Docker, AWS
 - 🌍 **Location:** Hamburg, Germany
