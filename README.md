@@ -1,128 +1,164 @@
 # Hi, I'm Maxwell 👋
 
-**Software Developer | Full Stack | Building Production Systems**
+**Data Engineer | Backend Developer | Building Scalable Data Systems**
 
-I build reliable software systems with modern technologies. Passionate about backend development, full-stack applications, and solving complex problems with clean, maintainable code.
+I build reliable data pipelines and backend systems with modern technologies. 
+Passionate about ETL workflows, database optimization, and solving complex data 
+problems with clean, maintainable code.
 
 ---
 
 ## 🚀 About Me
 
-- 💻 **Focus:** Backend Systems, Full-Stack Development, Data Engineering
+- 💻 **Focus:** Data Engineering, ETL Pipelines, SQL & Database Development
 - 🎓 **Education:** B.Sc. Computer Science, Free University of Bozen-Bolzano (2025)
-- 🔨 **Expertise:** Java, TypeScript, PostgreSQL, Docker, AWS
-- 🌍 **Location:** Hamburg, Germany
-- 💬 **Languages:** English (Native), German (B2), Italian (C1)
+- 🔨 **Expertise:** SQL, Python, PostgreSQL, Apache Airflow, AWS, Docker
+- 🌍 **Location:** Hamburg, Germany (authorized to work in Germany)
+- 💬 **Languages:** English (C1), German (B2), Italian (C1)
 
-I specialize in building scalable backend systems and modern web applications. My work spans AI-powered platforms, high-performance data pipelines, and full-stack applications with proper testing, deployment, and production-quality standards.
+I specialize in building scalable ETL pipelines, optimizing database performance, 
+and developing data infrastructure. My work spans production data automation, 
+workflow orchestration, and backend systems with proper testing, monitoring, and 
+production-quality standards.
 
-**What drives me:** Turning complex technical challenges into elegant, working solutions.
+**What drives me:** Turning messy data into reliable, actionable insights.
 
 ---
 
 ## 🛠️ Technical Stack
 
+**Data Engineering & ETL**
+- SQL (PostgreSQL, MySQL) - complex queries, optimization, indexing
+- Python (Pandas, NumPy) for data processing
+- Apache Airflow for workflow orchestration
+- ETL pipeline development, data validation, quality monitoring
+
 **Backend & APIs**
-- Java (Spring Boot, JPA/Hibernate, RESTful services)
-- Node.js, Express
-- PostgreSQL, MySQL, SQL optimization
-- API design and data modeling
+- Java (Spring Boot, JPA/Hibernate)
+- REST API development
+- Database design and normalization
+- Data modeling (ER diagrams, star schema)
 
-**Frontend & Full-Stack**
-- TypeScript/JavaScript (React, Next.js)
-- Modern UI development, responsive design
-- Server-side rendering, API integration
-
-**DevOps & Infrastructure**
+**DevOps & Cloud**
 - Docker, containerization
 - CI/CD pipelines (GitHub Actions)
-- AWS (S3, Lambda, EC2, CloudWatch)
-- Infrastructure as Code (Terraform, Ansible)
-- Linux, Bash scripting
+- AWS (S3, RDS, Lambda, CloudWatch)
+- Monitoring (Grafana, Elasticsearch)
 
-**Data Engineering**
-- ETL pipeline development
-- Multithreading, performance optimization
-- JSON parsing, schema validation
-- Data quality and error handling
+**Frontend** (basics for full-stack work)
+- TypeScript/JavaScript (React, Next.js)
+- API integration
 
 ---
 
 ## 🎯 Featured Projects
 
-### **[Pista - AI Pitch Evaluator](https://pista-app.vercel.app)** ⭐
-**Production AI platform for startup pitch analysis**
+### **Production Data Automation System** ⭐
+**Enterprise ETL pipeline in production at Amazon**
 
-Full-stack application processing multi-format inputs (audio, text) and delivering structured business insights.
+Built data automation tool processing operational data from multiple internal 
+systems, used daily by operations team and saving 90 minutes per day.
 
 **Technical Implementation:**
-- Engineered serverless backend with Convex for real-time data synchronization
-- Integrated OpenAI GPT-4 for structured analysis and Whisper for audio transcription
-- Implemented rate limiting, caching, and error handling for production reliability
-- Built with Next.js 14, TypeScript, and modern React patterns
+- Engineered ETL workflow with data extraction, validation, transformation, and loading
+- Implemented robust error handling, retry logic, and data quality monitoring
+- Set up monitoring infrastructure with Grafana and Elasticsearch tracking 300+ processes
+- Deployed with CI/CD pipeline (GitHub Actions) for automated testing and deployment
 
-🔗 **Live Demo:** https://pista-app.vercel.app  
-📂 **Tech Stack:** Next.js, TypeScript, Convex, OpenAI API, Vitest
+📂 **Tech Stack:** Python, SQL, AWS (S3, CloudWatch, Lambda), Grafana, Elasticsearch, Git
 
 ---
 
-### **[Tourism ETL Pipeline](https://github.com/Maxxy21/Programming-Project-OpenHub)** ⭐
-**High-performance data processing system**
+### **End-to-End Data Pipeline with Airflow** ⭐
+**Complete ETL system with workflow orchestration**
 
-Multithreaded Java pipeline processing 10,000+ complex records from external tourism APIs.
+Built scalable data pipeline extracting data from REST API, transforming with 
+Python/Pandas, and loading into PostgreSQL with Apache Airflow orchestration.
 
 **Technical Implementation:**
-- Built concurrent processing system using Java ExecutorService for parallel data ingestion
+- Designed normalized database schema with proper relationships and indexing
+- Implemented Airflow DAG with scheduling, dependency management, and retry logic
+- Developed data validation layer with automated quality checks and alerts
+- Created SQL views and optimized queries for efficient reporting
+- Containerized with Docker for consistent deployment
+
+📂 **Tech Stack:** Apache Airflow, PostgreSQL, Python, Pandas, Docker, SQL
+
+---
+
+### **[Tourism Data ETL Pipeline](https://github.com/Maxxy21/Programming-Project-OpenHub)** ⭐
+**High-performance data processing system**
+
+Multithreaded Java pipeline processing 10,000+ complex records from external 
+tourism APIs.
+
+**Technical Implementation:**
+- Built concurrent processing with Java ExecutorService for parallel data ingestion
 - Implemented strict schema validation with Gson/Jackson for data integrity
-- Optimized memory usage through connection pooling and streaming techniques
+- Optimized performance through connection pooling and streaming
 - Designed comprehensive error handling with retry logic and detailed logging
 
 📂 **Tech Stack:** Java, Multithreading, REST APIs, Gson, Jackson, Maven
 
 ---
 
-### **[Spring Boot Business API](https://github.com/Maxxy21/spring-boot-api)**
-**Enterprise REST API with security**
+### **[Pista - AI-Powered Platform](https://pista-app.vercel.app)**
+**Full-stack application with data processing**
 
-Production-ready API with authentication, authorization, and database integration.
+AI platform for startup pitch analysis, processing multi-format inputs and 
+delivering structured business insights.
 
 **Technical Implementation:**
-- Designed normalized PostgreSQL schema with proper relationships and constraints
-- Implemented JWT-based authentication and role-based access control
-- Built comprehensive test suite with JUnit and Mockito
-- Containerized with Docker for consistent deployment
+- Built backend with Convex for real-time data synchronization
+- Integrated OpenAI GPT-4 for structured data extraction (similar to ETL workflows)
+- Implemented rate limiting, caching, and error handling for production reliability
 
-📂 **Tech Stack:** Spring Boot, PostgreSQL, JWT, JPA/Hibernate, Docker, JUnit
+🔗 **Live:** https://pista-app.vercel.app  
+📂 **Tech Stack:** Next.js, TypeScript, Convex, OpenAI API
 
 ---
 
-### **[Wordle Clone](https://github.com/Maxxy21/Wordle-React-Native)**
-**Cross-platform mobile game**
+### **[Spring Boot Business API](https://github.com/Maxxy21/spring-boot-api)**
+**Enterprise REST API with database integration**
 
-Built with React Native, featuring game logic, persistent storage, and smooth animations.
+Production-ready API with PostgreSQL database, authentication, and comprehensive testing.
 
-📂 **Tech Stack:** React Native, TypeScript, Expo, AsyncStorage
+**Technical Implementation:**
+- Designed normalized PostgreSQL schema (3NF) with proper relationships
+- Wrote complex SQL queries (JOINs, aggregations, window functions)
+- Implemented JWT authentication and role-based access control
+- Built test suite with JUnit and Mockito
+
+📂 **Tech Stack:** Spring Boot, PostgreSQL, SQL, JPA/Hibernate, Docker, JUnit
 
 ---
 
 ## 💪 What I Bring
 
-**Technical Depth:** Strong foundation in computer science fundamentals combined with hands-on experience building production systems. I don't just write code—I architect solutions with testing, deployment, and maintainability in mind.
+**Data Engineering Expertise:** Strong foundation in ETL processes, database design, 
+and SQL optimization. I build data pipelines that are reliable, scalable, and 
+production-ready—not just proof-of-concepts.
 
-**Problem-Solving Mindset:** When I see inefficiencies, I build solutions. At Amazon, I identified workflow bottlenecks and built automation tools using JavaScript and CI/CD practices—demonstrating initiative beyond job requirements.
+**Problem-Solving Mindset:** At Amazon, I identified workflow inefficiencies and 
+built automation solutions that deliver measurable business value (90 min/day saved). 
+I see problems and build data-driven solutions.
 
-**Production Standards:** My projects aren't experiments—they're built with proper error handling, testing, documentation, and deployment strategies. Code that actually works in the real world.
+**Production Standards:** My projects include proper error handling, data validation, 
+monitoring, testing, and deployment strategies. Code that works in the real world, 
+not just in development.
 
-**Continuous Learning:** Completed 400+ hours of advanced DevOps training covering Docker, Kubernetes, AWS, and infrastructure automation. I stay current with modern development practices and tools.
+**Analytical Skills:** Academic background in Data Mining and Database Management 
+combined with hands-on experience analyzing datasets, optimizing queries, and 
+ensuring data quality.
 
 ---
 
 ## 🌱 Currently
 
-- 🔍 Seeking **Junior Developer, Trainee, or Quereinsteiger** opportunities in Hamburg
-- 🚀 Building production-ready projects and exploring open source contributions
-- 📚 Deepening expertise in distributed systems and cloud architecture
-- 💡 Open to Werkstudent positions to gain professional team experience
+- 🔍 Seeking **Data Engineer, SQL Developer, or Backend Developer** roles in Hamburg
+- 🚀 Building production-ready data pipelines and contributing to open source
+- 📚 Deepening expertise in cloud data platforms (Snowflake, dbt, AWS data services)
+- 💡 Open to Trainee or Junior positions for career growth
 
 ---
 
@@ -134,4 +170,4 @@ Built with React Native, featuring game logic, persistent storage, and smooth an
 
 ---
 
-**"Building software that works. Solving problems that matter."**
+**"Building data systems that work. Solving problems that matter."**
