@@ -45,8 +45,8 @@ production-quality standards.
 - AWS (S3, RDS, Lambda, CloudWatch)
 - Monitoring (Grafana, Elasticsearch)
 
-**Frontend** (basics for full-stack work)
-- TypeScript/JavaScript (React, Next.js)
+**Frontend** 
+- TypeScript/JavaScript (React, Next.js, Angular)
 - API integration
 
 ---
