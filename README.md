@@ -25,7 +25,7 @@ everyday calculations.
 - Search, structured data, localized routes, embeds and a public API
 
 Start with the [PDF page organizer](https://monu.tools/en/tools/pdf-organize)
-or read the [project story on my portfolio](https://maxwell.is-a.dev).
+or read the [project story on my portfolio](https://www.maxwellaboagye.dev).
 
 ## Selected work
 
@@ -70,7 +70,7 @@ checking, control flow and line-numbered diagnostics.
 
 ## Contact
 
-- [Portfolio](https://maxwell.is-a.dev)
+- [Portfolio](https://www.maxwellaboagye.dev)
 - [LinkedIn](https://linkedin.com/in/maxwell-aboagye)
 - [Email](mailto:aboagyemaxwell@outlook.com)
 
